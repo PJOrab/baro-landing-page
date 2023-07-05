@@ -29,12 +29,14 @@ h1 {
    background-color: #CCF381;
    border-color: #CCF381;
    color: #262729;
+   border-radius: 0px;
 }
 
 .btn:hover {
    background-color: #4831D4;
    border-color: #4831D4;
    color: #CCF381;
+   border-radius: 0px;
 }
 
 .btn:hover {
