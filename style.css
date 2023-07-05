@@ -10,7 +10,7 @@ body, html {
 }
 
 .textbuffer {
-   height: 15rem;
+   height: 5rem;
 }
 
 h1 {
@@ -22,7 +22,7 @@ h1 {
 }
 
 .buffer {
-   height: 3rem;
+   height: 0.5rem;
 }
 
 .btn {
@@ -45,10 +45,15 @@ h1 {
 }
 
 .imgbuffer {
-   height: 23rem;
+   height: 20rem;
 }
 
 img {
    width: 32px;
    height: 47.2px;
+}
+
+.logo {
+   width: 640px;
+   height: 360px;
 }
